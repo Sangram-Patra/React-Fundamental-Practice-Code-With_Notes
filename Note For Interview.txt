@@ -1,0 +1,12 @@
+Props:-
+*Props are use to pass static data from parents to child .both in function components and class components 
+*defaultProps is use to pass default prop in a component
+*component.propTypes is use to set a type for a props. 
+   Some types are :---
+  optionalArray: PropTypes.array,
+  optionalBool: PropTypes.bool,
+  optionalFunc: PropTypes.func,
+  optionalNumber: PropTypes.number,
+  optionalObject: PropTypes.object,
+  optionalString: PropTypes.string,
+  optionalSymbol: PropTypes.symbol,
